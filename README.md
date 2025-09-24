@@ -24,11 +24,11 @@ A beautiful, responsive portfolio website built with HTML, CSS, JavaScript, GSAP
 
 \`\`\`
 portfolio-website/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles and animations
-├── script.js           # JavaScript functionality
-├── profile-photo.jpg   # Profile image
-└── README.md          # Project documentation
+├── index.html         
+├── styles.css        
+├── script.js           
+├── profile-photo.jpg 
+└── README.md          
 \`\`\`
 
 ## 🚀 Getting Started
