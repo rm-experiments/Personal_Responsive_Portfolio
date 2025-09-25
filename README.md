@@ -24,11 +24,13 @@ A beautiful, responsive portfolio website built with HTML, CSS, JavaScript, GSAP
 
 \`\`\`
 portfolio-website/
+
 ├── index.html         
 ├── styles.css        
 ├── script.js           
 ├── profile-photo.jpg 
 └── README.md          
+
 \`\`\`
 
 ## 🚀 Getting Started
@@ -56,8 +58,9 @@ live-server
 
 4. **Contact Information**:
 \`\`\`html
-<a href="mailto:your.email@example.com">
-<a href="https://linkedin.com/in/yourprofile">
+<a href="mailto: maramramya8@gmail.com">
+<a href="https://linkedin.com/in/maramramya7r/">
+
 \`\`\`
 
 
@@ -94,9 +97,11 @@ Feel free to fork this project and customize it for your own portfolio!
 
 ## 📞 Contact
 
-- **Email**: maramramya8@gmail.com@
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/maramramya7r/)
-- **GitHub**: [Your GitHub Profile](https://github.com/rm-experiments)
+- **Email**: maramramya8@gmail.com
+  
+- **LinkedIn**:(https://linkedin.com/in/maramramya7r/)
+  
+- **GitHub**:(https://github.com/rm-experiments)
 
 ---
 
