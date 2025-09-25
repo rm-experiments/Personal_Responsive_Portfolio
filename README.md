@@ -25,10 +25,14 @@ A beautiful, responsive portfolio website built with HTML, CSS, JavaScript, GSAP
 \`\`\`
 portfolio-website/
 
-├── index.html         
-├── styles.css        
-├── script.js           
+├── index.html 
+
+├── styles.css  
+
+├── script.js  
+
 ├── profile-photo.jpg 
+
 └── README.md          
 
 \`\`\`
@@ -53,17 +57,8 @@ python -m http.server 8000
 
 # Using Node.js (if you have live-server installed)
 live-server
-\`\`\`
-
-
-4. **Contact Information**:
-\`\`\`html
-<a href="mailto: maramramya8@gmail.com">
-<a href="https://linkedin.com/in/maramramya7r/">
 
 \`\`\`
-
-
 
 ## 📱 Responsive Breakpoints
 
